@@ -1,6 +1,8 @@
 # End_to_End_Image_Classification_web_App-
 
 what I used in this project :
+
+
 1- Obtain the Data :
 
     Data is obtained in the form of images in a larger number for building the entire end to end web 
